@@ -1,2 +1,2 @@
 # TelePhantom Website
-[telephantom.github.io](telephantom.github.io)
+[https://telephantom.github.io](https://telephantom.github.io)
